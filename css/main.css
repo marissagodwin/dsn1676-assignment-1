@@ -32,3 +32,19 @@ html {
     display: inline-block;
     background-color: #E7E5D9;
 }
+
+.logo {
+    margin: 0 0.2em 0 0;
+    width: 1.2em;
+    vertical-align: middle;
+}
+
+.panel {
+    border-image: url(../images/panel.png) 36 36 36 36 stretch stretch;
+    border-width: 36px 36px 36px 35px;
+}
+
+.image {
+    width: 100%;
+}
+    
