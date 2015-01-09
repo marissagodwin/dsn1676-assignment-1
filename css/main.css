@@ -60,6 +60,8 @@ html {
 
 .list {
     text-align: left;
+    font-size: 0.8889rem;
+    line-height: 1.6875;
 }
 
 .space {
