@@ -16,3 +16,19 @@ html {
 *, *:before, *:after {
     box-sizing: inherit;
 }
+
+.bg-color {
+    background-color: #E7E5D9;
+}
+
+.masthead {
+    background: transparent;
+    background-image: url(../images/masthead-bg.png);
+    backrground-image: repeat left center;
+    text-align: center;
+}
+    
+.title {
+    display: inline-block;
+    background-color: #E7E5D9;
+}
