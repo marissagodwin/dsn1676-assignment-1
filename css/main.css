@@ -24,7 +24,7 @@ html {
 .masthead {
     background: transparent;
     background-image: url(../images/masthead-bg.png);
-    backrground-image: repeat left center;
+    background-image: repeat left center;
     text-align: center;
 }
     
@@ -40,11 +40,29 @@ html {
 }
 
 .panel {
-    border-image: url(../images/panel.png) 36 36 36 36 stretch stretch;
-    border-width: 36px 36px 36px 35px;
+    border-image: url(../images/panel.png) 20 20 20 20 stretch stretch;
+    border-width: 20px 20px 20px 20px;
 }
 
 .image {
     width: 100%;
 }
     
+.poster {
+    background-color: #87714F;
+    text-align: center;
+    color: white;
+}
+
+.hat {
+    width: 40%;
+}
+
+.list {
+    text-align: left;
+}
+
+.space {
+    padding-left: 1em;
+    padding-right: 1em;
+}
